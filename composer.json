@@ -1,0 +1,16 @@
+{
+  "name": "joasisweb/axs-checkout-gateway",
+  "description": "WooCommerce Payment integration for AXS Checkout",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.4",
+    "web-token/jwt-framework": "^4.0",
+    "spomky-labs/aes-key-wrap": "^7.0",
+    "web-token/jwt-encryption-algorithm-aesgcm": "^2.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "JoasisWeb\\AXSCheckout\\": "src/"
+    }
+  }
+}

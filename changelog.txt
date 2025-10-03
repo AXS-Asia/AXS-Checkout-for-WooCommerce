@@ -1,0 +1,5 @@
+*** AXS Checkout Gateway for WooCommerce Changelog ***
+
+2025-06-29 - version 1.0.0
+* Initial release of AXS Checkout Gateway for WooCommerce
+* Added AXS Checkout icon for the payment
