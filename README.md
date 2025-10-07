@@ -16,15 +16,12 @@ Easily accept secure online payments with the AXS Checkout plugin for WooCommerc
 - WordPress 5.0 or higher
 - WooCommerce 5.0 or higher
 
-## Notes
-
-AXS is not responsible for any problems that might arise from the use of this module. Use at your own risk. Please backup any critical data before proceeding. For any query or assistance, please email support@axscheckout.com.
 
 ## Prerequisites
 
 Before installing the plugin, you’ll need your AXS Checkout credentials.
 
-1. **Log in** to the [AXS Merchant Portal](https://merchant.axs.com.sg).
+1. **Log in** to the [AXS Merchant Portal](https://merchant.axsasia.com).
 
 ![pre-img](https://axs.com.sg/wp-content/uploads/2025/10/woo_plugin_1.webp "pre-1")
 
@@ -91,12 +88,6 @@ You will need these details when configuring the plugin.
 ## 🎉 You’re All Set!
 
 Your WooCommerce store is now ready to accept payments using AXS Checkout. Whether you're testing or going live, we’ve got you covered.
-
-
-## Support
-
-If you run into any issues or have questions, our support team is here to help.  
-Contact us at [support@axscheckout.com](mailto:support@axscheckout.com).
 
 
 ## Terms & Conditions
