@@ -45,7 +45,7 @@ You will need these details when configuring the plugin.
 
 ## Installation
 
-1. **Download** the latest plugin version from [GitHub Releases](https://github.com/axscheckout/woocommerce-plugin/releases).
+1. **Download** the latest plugin version from [GitHub Releases](https://github.com/AXS-Asia/AXS-Checkout-for-WooCommerce/releases).
 
 2. Log in to your **WordPress admin dashboard**.
 
